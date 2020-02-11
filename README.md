@@ -1,4 +1,8 @@
 ## Metamask
+- as extension
 
-chrome-extention
-firefox add-on
+`chrome`
+
+`firefox`
+
+`brave`
