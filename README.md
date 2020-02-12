@@ -7,9 +7,7 @@
 
 `brave`
 
-## Trezor
-
-## Ledger
+## Dapper
 
 ## Issues 
 
