@@ -1,3 +1,5 @@
+# Browser Extension
+
 ## Metamask
 - as extension
 
@@ -12,6 +14,13 @@
 ## Issues 
 
 What if there's no web3 injector, such as `dapper` or `metamask` ?
+
+# HardWare Based
+## Ledger
+## Trezor
+
+# Desktop Wallets
+https://newdex.zendesk.com/hc/en-us/articles/360028370252-Desktop-Wallet-Tutorial
 
 
 ## Dictums
